@@ -1,3 +1,8 @@
+Key Concepts
+Use system tools and be able to read and understand process statuses.
+Start and terminate a process.
+Use troubleshooting tools to problem solve issues with processes and resources.
+
 ## Terminating a specific process
 Get-Process -Name "totally_not_malicious"
 taskkill /F /PID 3456
